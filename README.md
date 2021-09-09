@@ -33,3 +33,8 @@ Below table shows the food items and their locations and price of them.
 |ice cream        |   Bengalore      |    550      |
 
 ---
+
+### quotes
+
+You cannot believe in God until you believe in yourself -          *swamy vivekananda*      
+All our dreams can come true, if we have the courage to pursue them – *Walt Disney*
