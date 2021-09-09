@@ -12,7 +12,24 @@ Nizamabad, also called Indur, city, northwestern Telangana state, southern India
 2. Board into a flight to RGIA airport, India
 3. Book a ola/uber and go to busstop then get into a nizamabad bus.
    1. Rent a car
-   2. visit the nearest agriculture lands an enjoy the scenary
+   2. visit the nearest agriculture lands and enjoy the scenary
 * Biscuits
 * umbrella
 * DSLR   
+
+[AboutMeLink](AboutMe.md)
+
+---
+
+### Recommended food
+
+Below table shows the food items and their locations and price of them.
+
+|    Food Items   |     Location     |   Amount    |
+|   -----------   |    ----------    |  --------   |
+| samosa          |   nizamabad      |    50       |
+|pani puri        |   Nizamabad      |    20       |
+|wada pav         |   Delhi          |    40       |
+|ice cream        |   Bengalore      |    550      |
+
+---
